@@ -29,6 +29,17 @@ Some code was copied from here:
     https://dzone.com/articles/crc8py
 and gave credit "From the PyPy project" and the link
     http://snippets.dzone.com/posts/show/3543
+    
+This CRC8 seems to implement the 0x7 polynomial. 
+
+Also see :
+http://www.sunshine2k.de/coding/javascript/crc/crc_js.html
+https://stackoverflow.com/questions/57923291/finding-polynomial-used-in-crc-8-calculation-table
+http://www.sunshine2k.de/articles/coding/crc/understanding_crc.html
+https://en.wikipedia.org/wiki/Computation_of_cyclic_redundancy_checks
+https://web.archive.org/web/20060927004051/http://www.repairfaq.org/filipg/LINK/F_crc_v3.html
+https://github.com/GardenTools/crcengine
+https://github.com/tpircher/pycrc
 
 """
 import sys
